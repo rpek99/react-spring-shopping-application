@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rpek99/polstore-backend.git
+[submodule "client"]
+	path = client
+	url = https://github.com/rpek99/polstore-client.git
