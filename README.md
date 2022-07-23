@@ -1,6 +1,6 @@
 
 <div align="center">
-  # Shopping Application For University Members
+# Shopping Application For University Members
 </div>
 
 <br/>
