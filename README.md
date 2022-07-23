@@ -1,8 +1,4 @@
-
-## Shopping Application For University Members
-
-<br/>
-
+</br>
 ## About The Project
 
 This project is a shopping application where university members can buy and sell their belongings among themselves.
